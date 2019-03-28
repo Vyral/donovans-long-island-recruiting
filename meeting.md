@@ -1,5 +1,5 @@
 ---
-layout: recruiting
+layout: default
 title: Schedule a Meeting
 permalink: /meeting/
 ---
