@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lightning Safety tips you need to know
-date: 2020-07-06 14:06:05
+date: 2020-07-06 14:06:00
 tags:
 excerpt:
 enclosure:
@@ -29,7 +29,9 @@ If you’d like to learn more about lightning to share with your family and frie
 
 **Real Estate Tip of the Week&nbsp;**Before listing a home for sale during the summer, check out the weather report before getting photos taken. Generally the morning hours provide the best lighting for taking photos\! If, however, the lighting is not optimal, a photographer should have some tricks up his sleeve for taking great photos in bad lighting\! &nbsp;[**Click Here for a few cool tips\!&nbsp;**](https://t.e2ma.net/click/2bmhpc/6imx8m/i89h0h){: target="_blank"}&nbsp; If you need more tips and tricks on technology that will help you - we are always looking for innovative ideas that can help\! Call me to learn more.
 
-**Words of Wisdom&nbsp;***Thunder is good, thunder is impressive, but it is lightning that does the work. -Mark Twain*
+**Words of Wisdom&nbsp;**
+
+*Thunder is good, thunder is impressive, but it is lightning that does the work. -Mark Twain*
 
 *If you are caught on a golf course during a storm and are afraid of lightning, hold up a 1-iron. Not even God can hit a 1-iron. - Lee Trevino*
 
