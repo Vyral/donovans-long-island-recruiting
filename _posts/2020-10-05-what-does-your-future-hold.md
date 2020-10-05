@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Does Your Future Hold?
-date: 2020-10-05 14:17:03
+date: 2020-10-05 14:17:00
 tags:
 excerpt:
 enclosure:
@@ -21,9 +21,9 @@ What’s next for you? Will you continue on the path that you were on or has thi
 
 As I mentioned above, the first step to reshaping your future is knowing what you want and why. Here is a great post and some quick tips that can get you started:&nbsp;**[11 Ways You Can Find the Purpose of Life](https://t.e2ma.net/click/jc549b/zwff20l/fp8o8d){: target="_blank"}**&nbsp;from the folks at Lifehack.&nbsp;
 
-**Weekly Homeowner Tip &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **
+**Weekly Homeowner Tip**
 
-Prevent future breakdowns around your home.&nbsp; How you care for your appliances can make all the difference in how well they work and how long they last into the future\!&nbsp; Check out this short post:&nbsp; &nbsp; &nbsp;**[5 Appliance Maintenance Tips to Avoid Breakdowns](https://t.e2ma.net/click/jc549b/zwff20l/vh9o8d){: target="_blank"}. &nbsp;**Some of the tips will surprise you at how simple they are\! Start planning for your appliance's future too\!
+Prevent future breakdowns around your home.&nbsp; How you care for your appliances can make all the difference in how well they work and how long they last into the future\!&nbsp; Check out this short post:&nbsp;**[5 Appliance Maintenance Tips to Avoid Breakdowns](https://t.e2ma.net/click/jc549b/zwff20l/vh9o8d){: target="_blank"}. &nbsp;**Some of the tips will surprise you at how simple they are\! Start planning for your appliance's future too\!
 
 **Words of Wisdom**
 
