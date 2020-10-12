@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '"Niksen"- Stress less - Do NOTHING!'
-date: 2020-10-12 13:43:29
+date: 2020-10-12 13:43:00
 tags:
 excerpt:
 enclosure:
@@ -9,7 +9,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/unnamed-10.png
+youtube_alternate_image: /uploads/unnamed-10-1.png
 youtube_code:
 ---
 
@@ -31,7 +31,7 @@ Want to have your house cleaning chores whittled down to what feels like absolut
 
 *Sometimes the most important thing to do is to do nothing -&nbsp;**Debasish Mridha**&nbsp;*
 
-*Niksen is a time without devices, without a screen, without immediated gratification. you're just able to be --&nbsp;**Megan Cannon***
+*Niksen is a time without devices, without a screen, without immediated gratification. you're just able to be –&nbsp;**Megan Cannon***
 
 *Look at the birds of the air, for they neither sow nor reap nor gather into barns; yet your heavenly Father feeds therm. Are you not of more value than they? -&nbsp;**Matthew 6:26***
 
