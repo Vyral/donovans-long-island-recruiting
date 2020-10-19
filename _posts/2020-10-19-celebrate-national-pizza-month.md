@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Celebrate National Pizza Month!
-date: 2020-10-19 16:47:28
+date: 2020-10-19 16:47:00
 tags:
 excerpt:
 enclosure:
@@ -9,7 +9,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/unnamed-11.png
+youtube_alternate_image: /uploads/unnamed-11-1.png
 youtube_code:
 ---
 
